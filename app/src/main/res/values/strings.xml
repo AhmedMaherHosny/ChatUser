@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChatUser</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="add_image">Add image</string>
+    <string name="user_name">User name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="phone_number">Phone number</string>
+    <string name="sign_up">sign up</string>
+    <string name="todo" />
+    <string name="add_friend">Add Friend</string>
+    <string name="no_friends_available">No friends available</string>
+    <string name="type_a_message">Type a message</string>
+</resources>
