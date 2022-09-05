@@ -28,7 +28,7 @@ class HomeActivity : BaseActivity<HomeViewModel, ActivityHomeBinding>(), Navigat
         ifSignOut()
     }
 
-    private fun ifSignOut() {
+    private fun ifSignOut() { // clear the session
         viewModel.prefClear.observe(this) {
             if (it) {
                 preferenceManger.clear()
